@@ -1,4 +1,5 @@
-# Gradebook-Project
+# Gradebook OOP project that allows user to add, edit, present, or delete a full course and grades registeration system.
+
 This is a terminal based OOP C++ project that accepts user input of information, create objects, allows user to edit the attributes, show attributes results, and saves
 all the inputted info in CSV files before existing.
   The following is the user input commands and their description:
